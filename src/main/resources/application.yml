@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: mongodbex1
+  data:
+    mongodb:
+      uri: mongodb+srv://<username>:<password>@<cluster>.mongodb.net
+      database: sample_mflix
